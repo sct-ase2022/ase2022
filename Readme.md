@@ -1,1 +1,1 @@
-The gz file contains the data of our experimental results.
+The data.tar.gz file contains the data of our experimental results.
